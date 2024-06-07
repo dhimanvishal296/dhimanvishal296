@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack webdevlopment.
 - 🌱 I’m currently learning MERN 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dhimanvishalfolio.netlify.app
+- 📫 How to reach me dhimanvishal296.netlify.app
 
 <!---
 dhimanvishal296/dhimanvishal296 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
